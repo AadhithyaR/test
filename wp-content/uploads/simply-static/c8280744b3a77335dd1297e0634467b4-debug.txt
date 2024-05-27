@@ -1,0 +1,4 @@
+[2024-05-27 12:14:13] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/test
+[2024-05-27 12:14:14] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/test
+[2024-05-27 12:14:36] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/test
+[2024-05-27 12:14:36] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/test
